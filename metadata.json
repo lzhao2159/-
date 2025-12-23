@@ -1,0 +1,5 @@
+{
+  "name": "WealthAI - 個人化財務管家",
+  "description": "整合 Gemini AI 分析與 Firebase 雲端同步的智慧化財務管理系統，支援多帳戶管理、收支追蹤與深度報表建議。",
+  "requestFramePermissions": []
+}
